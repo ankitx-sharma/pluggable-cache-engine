@@ -2,3 +2,4 @@
 A cache where you can plug different eviction strategies.
 
 ## Eviction Policy used
+ - LRU Eviction
