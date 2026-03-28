@@ -1,4 +1,4 @@
 # pluggable-cache-engine
 A cache where you can plug different eviction strategies.
 
-## Eviction algorithms used
+## Eviction Policy used
